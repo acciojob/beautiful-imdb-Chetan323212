@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+
+.moivePic{
+ height:400px;
+ width:400px;
+ opacity: 0.5;
+}
+
+.moiveDetail{
+	text-align:left;
+	font-family:bold;
+	font-size:30px;
+	width:400px;
+	position: relative;
+	top: 20px;
+	color:blueviolet
+}
